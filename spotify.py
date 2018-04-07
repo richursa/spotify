@@ -1,4 +1,4 @@
-his is richu
+#!/usr/bin/env python 
 import sys
 import os
 try:
