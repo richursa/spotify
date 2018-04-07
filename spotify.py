@@ -1,5 +1,5 @@
 this is richu
-#!/usr/bin/env python 
+#!/usr/bin/en python 
 import sys
 import os
 try:
