@@ -1,5 +1,4 @@
-this is richu
-#!/usr/bin/en python 
+his is richu
 import sys
 import os
 try:
